@@ -1,0 +1,11 @@
+﻿  Tally Update Log (2017 Release) 
+
+  New Features On Next Update
+    	- Automatically connect to printer and PrintResult() 
+	  in server side
+	- Wi-fi connection for optimized wlan connectivity
+	- Bluetooth connection 32Feet In.The.Hand.Personal 
+	  application extension
+	- Automatically save results as SaveAsHtml()
+	- Multiple language support for localization
+	- Theme support for costumization
